@@ -64,3 +64,48 @@
 ![Scrum](https://img.shields.io/badge/-Scrum-05122A?style=for-the-badge&logo=scrumalliance&logoColor=white)&nbsp;
 ![UML](https://img.shields.io/badge/-UML-05122A?style=for-the-badge&logo=uml&logoColor=white)&nbsp;
 ![Requirements Analysis](https://img.shields.io/badge/-Requirements%20Analysis-05122A?style=for-the-badge&logo=task&logoColor=white)&nbsp;
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+
+<h3 align="center">⚡ Recent GitHub Activity</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsdrubalPereiraZuniga&theme=github-compact&hide_border=true" />
+</p>
+
+aca:
+<h3 align="center"> :open_file_folder: My Repositories </h3>
+	
+<div>
+  <p align="center">	
+	<a href="https://github.com/AsdrubalPereiraZuniga/Proyecto_2_SO_2025">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsdrubalPereiraZuniga&repo=Proyecto_2_SO_2025&theme=tokyonight" alt="GitHub Stats" />
+    	</a>    	
+    	<a href="https://github.com/AsdrubalPereiraZuniga/Flutter_GPS_App">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsdrubalPereiraZuniga&repo=Flutter_GPS_App&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/AsdrubalPereiraZuniga/HTTP_RequestToRECOPE_API_FLUTTER">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsdrubalPereiraZuniga&repo=HTTP_RequestToRECOPE_API_FLUTTER&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/AsdrubalPereiraZuniga/LeafletMap_flutter">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsdrubalPereiraZuniga&repo=LeafletMap_flutter&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+  <a href="https://github.com/AsdrubalPereiraZuniga/Game_UNO ">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsdrubalPereiraZuniga&repo=Game_UNO&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+	<a href="https://github.com/AsdrubalPereiraZuniga/APIProjectLeaflet">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsdrubalPereiraZuniga&repo=APIProjectLeaflet&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    <a href="https://github.com/AsdrubalPereiraZuniga/AsdrubalPereiraZuniga">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsdrubalPereiraZuniga&repo=AsdrubalPereiraZuniga&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+  </p>
+</div>
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asdrubal-pereira-zuniga/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AsdrubalPereiraZuniga)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asdrubalperezu75a.z@gmail.com)
