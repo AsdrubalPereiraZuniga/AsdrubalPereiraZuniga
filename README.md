@@ -73,7 +73,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsdrubalPereiraZuniga&theme=github-compact&hide_border=true" />
 </p>
 
-aca:
 <h3 align="center"> :open_file_folder: My Repositories </h3>
 	
 <div>
