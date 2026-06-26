@@ -65,4 +65,3 @@
 ![Scrum](https://img.shields.io/badge/-Scrum-05122A?style=for-the-badge&logo=scrumalliance&logoColor=white)&nbsp;
 ![UML](https://img.shields.io/badge/-UML-05122A?style=for-the-badge&logo=uml&logoColor=white)&nbsp;
 ![Requirements Analysis](https://img.shields.io/badge/-Requirements%20Analysis-05122A?style=for-the-badge&logo=task&logoColor=white)&nbsp;
-
