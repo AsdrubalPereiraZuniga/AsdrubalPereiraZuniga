@@ -8,7 +8,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I love programming `full-stack` solutions..
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1Tttsc2Dp14Z6sBqzoxxSStJMCsmdXmr9/view?usp=sharing).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1wVYBjKWKgugjOJRtMm_OmEd5jMIfIZpJ/view?usp=sharing).
 - :boom: You can visit [MY WEBSITE]().
 <br>
 
