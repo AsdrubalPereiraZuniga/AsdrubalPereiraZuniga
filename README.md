@@ -77,6 +77,9 @@
 	
 <div>
   <p align="center">	
+	<a href="https://github.com/AsdrubalPereiraZuniga/AsistenteLogistico">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsdrubalPereiraZuniga&repo=AsistenteLogistico&theme=tokyonight" alt="GitHub Stats" />
+    </a>
 	<a href="https://github.com/AsdrubalPereiraZuniga/Proyecto_2_SO_2025">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsdrubalPereiraZuniga&repo=Proyecto_2_SO_2025&theme=tokyonight" alt="GitHub Stats" />
     	</a>    	
