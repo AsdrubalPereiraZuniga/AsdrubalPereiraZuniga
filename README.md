@@ -76,30 +76,30 @@
 <h3 align="center"> :open_file_folder: My Repositories </h3>
 	
 <div>
-  <p align="center">	
+  <p align="center">		
 	<a href="https://github.com/AsdrubalPereiraZuniga/AsistenteLogistico">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsdrubalPereiraZuniga&repo=AsistenteLogistico&theme=tokyonight" alt="GitHub Stats" />
-    </a>
+      		<img src="https://github-readme-stats-eight.vercel.app/api/pin/?username=AsdrubalPereiraZuniga&repo=AsistenteLogistico&theme=tokyonight" alt="Asistente Logístico" />
+    	</a> 
 	<a href="https://github.com/AsdrubalPereiraZuniga/Proyecto_2_SO_2025">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsdrubalPereiraZuniga&repo=Proyecto_2_SO_2025&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsdrubalPereiraZuniga&repo=Proyecto_2_SO_2025&theme=tokyonight" alt="Proyecto_2_SO_2025" />
     	</a>    	
     	<a href="https://github.com/AsdrubalPereiraZuniga/Flutter_GPS_App">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsdrubalPereiraZuniga&repo=Flutter_GPS_App&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsdrubalPereiraZuniga&repo=Flutter_GPS_App&theme=tokyonight" alt="Flutter_GPS_App" />
     	</a>
     	<a href="https://github.com/AsdrubalPereiraZuniga/HTTP_RequestToRECOPE_API_FLUTTER">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsdrubalPereiraZuniga&repo=HTTP_RequestToRECOPE_API_FLUTTER&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsdrubalPereiraZuniga&repo=HTTP_RequestToRECOPE_API_FLUTTER&theme=tokyonight" alt="Request RECOPE API Flutter App" />
     	</a>
 	<a href="https://github.com/AsdrubalPereiraZuniga/LeafletMap_flutter">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsdrubalPereiraZuniga&repo=LeafletMap_flutter&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   <a href="https://github.com/AsdrubalPereiraZuniga/Game_UNO ">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsdrubalPereiraZuniga&repo=Game_UNO&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsdrubalPereiraZuniga&repo=Game_UNO&theme=tokyonight" alt="GAME UNO" />
   </a>
 	<a href="https://github.com/AsdrubalPereiraZuniga/APIProjectLeaflet">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsdrubalPereiraZuniga&repo=APIProjectLeaflet&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsdrubalPereiraZuniga&repo=APIProjectLeaflet&theme=tokyonight" alt="API to Leaflet Map Service" />
     	</a>
     <a href="https://github.com/AsdrubalPereiraZuniga/AsdrubalPereiraZuniga">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsdrubalPereiraZuniga&repo=AsdrubalPereiraZuniga&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsdrubalPereiraZuniga&repo=AsdrubalPereiraZuniga&theme=tokyonight" alt="GitHub Profile" />
     	</a>
   </p>
 </div>
