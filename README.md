@@ -77,8 +77,8 @@
 	
 <div>
   <p align="center">		
-	<a href="https://github.com/AsdrubalPereiraZuniga/AsistenteLogistico">
-      		<img src="https://github-readme-stats-eight.vercel.app/api/pin/?username=AsdrubalPereiraZuniga&repo=AsistenteLogistico&theme=tokyonight" alt="Asistente Logístico" />
+	<a href="https://github.com/AsdrubalPereiraZuniga/EPSS-WebPage">
+      		<img src="https://github-readme-stats-eight.vercel.app/api/pin/?username=AsdrubalPereiraZuniga&repo=EPSS-WebPage&theme=tokyonight" alt="EPSS-WebPage" />
     	</a> 
 	<a href="https://github.com/AsdrubalPereiraZuniga/Proyecto_2_SO_2025">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsdrubalPereiraZuniga&repo=Proyecto_2_SO_2025&theme=tokyonight" alt="Proyecto_2_SO_2025" />
